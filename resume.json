@@ -137,27 +137,24 @@
   ],
   "skills": [
     {
+      "name": "Programming Languages",
+      "level": "Master",
+      "keywords": ["Node.js", "Typescript", "PHP", "Java"]
+    },
+    {
       "name": "Web Development",
       "level": "Master",
-      "keywords": [
-        "HTML",
-        "CSS",
-        "Javascript",
-        "Node.js",
-        "Typescript",
-        "PHP",
-        "Java"
-      ]
+      "keywords": ["HTML5", "CSS3", "Javascript"]
     },
     {
       "name": "Frameworks",
       "level": "Master",
-      "keywords": ["Spring", "Angular", "Express"]
+      "keywords": ["Spring MVC", "Angular", "express"]
     },
     {
       "name": "Databases",
       "level": "Master",
-      "keywords": ["MySQL", "MongoDB"]
+      "keywords": ["MySQL", "MongoDB", "PostgreSQL"]
     },
     {
       "name": "Infrastructure",
