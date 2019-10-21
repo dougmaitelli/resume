@@ -21,15 +21,24 @@
     ]
   },
   "work": [
+    
     {
-      "company": "SAP",
+      "company": "SAP Concur",
       "position": "Senior Developer",
-      "startDate": "2017-02-01",
+      "startDate": "2019-04-15",
       "summary": "Customer requirements evaluation, project execution, development",
       "highlights": []
     },
     {
-      "company": "SAP",
+      "company": "SAP SE",
+      "position": "Senior Developer",
+      "startDate": "2017-02-01",
+      "endDate": "2019-04-14",
+      "summary": "Customer requirements evaluation, project execution, development",
+      "highlights": []
+    },
+    {
+      "company": "SAP Labs Latin America",
       "position": "Developer",
       "startDate": "2012-07-01",
       "endDate": "2017-01-01",
