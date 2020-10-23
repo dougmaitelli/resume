@@ -5,7 +5,7 @@
     "image": "https://avatars3.githubusercontent.com/u/1277391",
     "email": "dougmaitelli@gmail.com",
     "website": "http://dougmaitelli.github.io",
-    "summary": "I try to be the best in what I do, dealing with things I like and always improving and  searching ways to expand my skills and technologies. Specialties: Java, Javascript",
+    "summary": "I try to be the best in what I do, dealing with things I like and always improving and  searching ways to expand my skills and technologies. Specialties: Java, Node.js, Typescript",
     "profiles": [
       {
         "network": "github",
@@ -23,8 +23,8 @@
     {
       "name": "SAP Concur",
       "company": "SAP Concur",
-      "location": "United States of America",
-      "position": "Senior Developer",
+      "location": "United States",
+      "position": "Senior Software Engineer",
       "startDate": "2019-04-15",
       "summary": "Development of Accounting Integration Service for expense processing and financial systems posting",
       "highlights": []
@@ -33,7 +33,7 @@
       "name": "SAP SE",
       "company": "SAP SE",
       "location": "Germany",
-      "position": "Senior Developer",
+      "position": "Senior Software Engineer",
       "startDate": "2017-02-01",
       "endDate": "2019-04-14",
       "summary": "Customer requirement evaluation, project execution, development",
@@ -43,12 +43,13 @@
       "name": "SAP Labs Latin America",
       "company": "SAP Labs Latin America",
       "location": "Brazil",
-      "position": "Developer",
+      "position": "Software Engineer",
       "startDate": "2012-07-01",
       "endDate": "2017-01-01",
       "summary": "Customer requirement evaluation, project execution, development",
       "highlights": [
-        "Development of customizations / solutions for customers of onDemand products",
+        "Design Thinking Coach",
+        "Development of customizations / solutions for customers of on-Demand products",
         "SAP HANA Training in Palo Alto",
         "HTML 5 / JQuery Training in Palo Alto",
         "SAPUI5 Training in Palo Alto"
@@ -61,7 +62,7 @@
       "position": "Co-Founder",
       "startDate": "2016-03-01",
       "summary": "Responsible for the online veectorial editor, CI / CD pipeline and infrastructure",
-      "highlights": ["First Prize at Maratona de Empreendedorismo da UFRGS"]
+      "highlights": ["First Prize at UFRGS Entrepreneurship Marathon"]
     },
     {
       "name": "Versul Tecnologia de Acesso Inteligente",
@@ -71,13 +72,15 @@
       "startDate": "2010-07-01",
       "endDate": "2012-06-01",
       "summary": "Team management, responsible for application server and core web solution development",
-      "highlights": []
+      "highlights": [
+        "Managed a team of 5 people to create the new generation of transportation software for some cities in the country"
+      ]
     },
     {
       "name": "SPPS Provedora de Soluções Ltda",
       "company": "SPPS Provedora de Soluções Ltda",
       "location": "Brazil",
-      "position": "Web Developer",
+      "position": "Software Engineer",
       "startDate": "2010-03-01",
       "endDate": "2010-06-01",
       "summary": "Development of an Online based ERP (PHP)",
@@ -100,7 +103,7 @@
       "highlights": ["First Prize at Maratona de Empreendedorismo da UFRGS"],
       "startDate": "2016-03-01",
       "url": "https://flimbo.io",
-      "roles": ["CTO", "Developer"],
+      "roles": ["CTO", "Software Engineer"],
       "entity": "Flimbo",
       "type": "application"
     },
@@ -110,7 +113,7 @@
       "highlights": ["First Prize in SAP InnoWeek"],
       "startDate": "2014-11-01",
       "endDate": "2014-11-30",
-      "roles": ["Developer"],
+      "roles": ["Software Engineer"],
       "entity": "SAP",
       "type": "application"
     },
@@ -129,7 +132,7 @@
       "highlights": [],
       "startDate": "2013-02-01",
       "endDate": "2015-12-31",
-      "roles": ["Developer"],
+      "roles": ["Creator", "Software Engineer"],
       "entity": "Universidade Feevale",
       "type": "application"
     }
@@ -138,7 +141,7 @@
     {
       "title": "Silver Medal",
       "date": "2009-11-01",
-      "awarder": "OBMEP (Brazilian Math Olympiad of Public Schools)",
+      "awarder": "OBMEP (Brazilian Math Olympics of Public Schools)",
       "summary": ""
     },
     {
@@ -158,7 +161,17 @@
     {
       "name": "Programming Languages",
       "level": "Master",
-      "keywords": ["Node.js", "Typescript", "PHP", "Java"]
+      "keywords": ["Node.js", "Typescript", "Java", "PHP"]
+    },
+    {
+      "name": "Programming Languages",
+      "level": "Advanced",
+      "keywords": ["Ruby"]
+    },
+    {
+      "name": "Programming Languages",
+      "level": "Basic",
+      "keywords": ["C/C++", "C#", "Ruby", "Assembly"]
     },
     {
       "name": "Web Development",
@@ -168,7 +181,12 @@
     {
       "name": "Frameworks",
       "level": "Master",
-      "keywords": ["Spring MVC", "Angular", "express"]
+      "keywords": ["Spring MVC", "Express.js"]
+    },
+    {
+      "name": "Frameworks",
+      "level": "Advanced",
+      "keywords": ["React"]
     },
     {
       "name": "Databases",
@@ -176,19 +194,14 @@
       "keywords": ["MySQL", "MongoDB", "PostgreSQL"]
     },
     {
-      "name": "Infrastructure",
-      "level": "Advanced",
-      "keywords": ["AWS ECS", "Docker"]
-    },
-    {
-      "name": "Other Languages",
-      "level": "Advanced",
-      "keywords": ["C/C++", "C#", "Ruby", "Assembly"]
-    },
-    {
       "name": "Mobile Development",
       "level": "Advanced",
       "keywords": ["Android"]
+    },
+    {
+      "name": "Other",
+      "level": "Advanced",
+      "keywords": ["Docker"]
     }
   ],
   "languages": [
