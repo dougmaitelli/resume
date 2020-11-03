@@ -1,16 +1,20 @@
 {
   "basics": {
     "name": "Douglas Maitelli",
-    "label": "Senior Developer",
-    "image": "https://avatars3.githubusercontent.com/u/1277391",
+    "label": "Senior Software Engineer",
+    "picture": "https://avatars3.githubusercontent.com/u/1277391",
     "email": "dougmaitelli@gmail.com",
     "website": "http://dougmaitelli.github.io",
-    "summary": "I try to be the best in what I do, dealing with things I like and always improving and  searching ways to expand my skills and technologies. Specialties: Java, Node.js, Typescript",
+    "summary": "I like to deal with technical challenges that require deep analisys and provide me an opportunity to design an elegant solution. I try to always use the opportunities I have to improve my skills and learn new technologies. Specialties: Java, Node.js, Typescript",
+    "location": {
+      "countryCode": "US",
+      "region": "Washington"
+    },
     "profiles": [
       {
         "network": "github",
         "username": "dougmaitelli",
-        "url": "http://github.com/dougmaitelli"
+        "url": "https://github.com/dougmaitelli"
       },
       {
         "network": "linkedin",
@@ -21,51 +25,52 @@
   },
   "work": [
     {
-      "name": "SAP Concur",
       "company": "SAP Concur",
       "location": "United States",
       "position": "Senior Software Engineer",
+      "website": "https://www.concur.com",
       "startDate": "2019-04-15",
       "summary": "Development of Accounting Integration Service for expense processing and financial systems posting",
       "highlights": []
     },
     {
-      "name": "SAP SE",
       "company": "SAP SE",
       "location": "Germany",
       "position": "Senior Software Engineer",
+      "website": "https://www.sap.com",
       "startDate": "2017-02-01",
       "endDate": "2019-04-14",
       "summary": "Customer requirement evaluation, project execution, development",
       "highlights": []
     },
     {
-      "name": "SAP Labs Latin America",
+      "company": "Flimbo",
+      "location": "Brazil",
+      "position": "Co-Founder",
+      "website": "https://flimbo.io",
+      "startDate": "2016-03-01",
+      "endDate": "2018-12-31",
+      "summary": "Responsible for the online vectorial editor, CI / CD pipeline and infrastructure",
+      "highlights": ["First Prize at UFRGS Entrepreneurship Marathon"]
+    },
+    {
       "company": "SAP Labs Latin America",
       "location": "Brazil",
       "position": "Software Engineer",
+      "website": "https://www.sap.com",
       "startDate": "2012-07-01",
       "endDate": "2017-01-01",
       "summary": "Customer requirement evaluation, project execution, development",
       "highlights": [
-        "Design Thinking Coach",
         "Development of customizations / solutions for customers of on-Demand products",
-        "SAP HANA Training in Palo Alto",
-        "HTML 5 / JQuery Training in Palo Alto",
-        "SAPUI5 Training in Palo Alto"
+        "Design Thinking Coach",
+        "SAP HANA",
+        "SAPUI5",
+        "SAP SmartOffice",
+        "SAP Arrival Guide App"
       ]
     },
     {
-      "name": "Flimbo",
-      "company": "Flimbo",
-      "location": "Brazil",
-      "position": "Co-Founder",
-      "startDate": "2016-03-01",
-      "summary": "Responsible for the online veectorial editor, CI / CD pipeline and infrastructure",
-      "highlights": ["First Prize at UFRGS Entrepreneurship Marathon"]
-    },
-    {
-      "name": "Versul Tecnologia de Acesso Inteligente",
       "company": "Versul Tecnologia de Acesso Inteligente",
       "location": "Brazil",
       "position": "Web Development Manager",
@@ -73,18 +78,9 @@
       "endDate": "2012-06-01",
       "summary": "Team management, responsible for application server and core web solution development",
       "highlights": [
-        "Managed a team of 5 people to create the new generation of transportation software for some cities in the country"
+        "Managed a team of 5 people to create the new generation of transportation software for some cities in the country",
+        "GPS Tracking / Route Mapping Solutions"
       ]
-    },
-    {
-      "name": "SPPS Provedora de Soluções Ltda",
-      "company": "SPPS Provedora de Soluções Ltda",
-      "location": "Brazil",
-      "position": "Software Engineer",
-      "startDate": "2010-03-01",
-      "endDate": "2010-06-01",
-      "summary": "Development of an Online based ERP (PHP)",
-      "highlights": []
     }
   ],
   "education": [
@@ -96,53 +92,12 @@
       "endDate": "2015-12-31"
     }
   ],
-  "projects": [
-    {
-      "name": "Flimbo",
-      "description": "Design Platform",
-      "highlights": ["First Prize at Maratona de Empreendedorismo da UFRGS"],
-      "startDate": "2016-03-01",
-      "url": "https://flimbo.io",
-      "roles": ["CTO", "Software Engineer"],
-      "entity": "Flimbo",
-      "type": "application"
-    },
-    {
-      "name": "SAP SmartOffice",
-      "description": "Mobile platform to manage a Smart Building in the corporate scenario",
-      "highlights": ["First Prize in SAP InnoWeek"],
-      "startDate": "2014-11-01",
-      "endDate": "2014-11-30",
-      "roles": ["Software Engineer"],
-      "entity": "SAP",
-      "type": "application"
-    },
-    {
-      "name": "SAP Arrival Guide App",
-      "description": "SAP Arrival Guide App covers the first 24 hours of a visitor at SAP Labs",
-      "startDate": "2013-09-01",
-      "endDate": "2013-09-30",
-      "roles": ["Architect"],
-      "entity": "SAP",
-      "type": "application"
-    },
-    {
-      "name": "Aluno Feevale Mobile App",
-      "description": "Mobile application for Universidade Feevale students",
-      "highlights": [],
-      "startDate": "2013-02-01",
-      "endDate": "2015-12-31",
-      "roles": ["Creator", "Software Engineer"],
-      "entity": "Universidade Feevale",
-      "type": "application"
-    }
-  ],
   "awards": [
     {
-      "title": "Silver Medal",
-      "date": "2009-11-01",
-      "awarder": "OBMEP (Brazilian Math Olympics of Public Schools)",
-      "summary": ""
+      "title": "First Prize in SAP InnoWeek",
+      "date": "2014-11-30",
+      "awarder": "SAP",
+      "summary": "Project SAP SmartOfficce"
     },
     {
       "title": "Second Prize at 2nd Logic and Programming Competition",
@@ -151,27 +106,26 @@
       "summary": ""
     },
     {
-      "title": "First Prize in SAP InnoWeek",
-      "date": "2014-11-30",
-      "awarder": "SAP",
-      "summary": "Project SAP SmartOfficce"
+      "title": "Silver Medal",
+      "date": "2009-11-01",
+      "awarder": "OBMEP (Brazilian Math Olympics of Public Schools)",
+      "summary": ""
     }
   ],
   "skills": [
     {
       "name": "Programming Languages",
       "level": "Master",
-      "keywords": ["Node.js", "Typescript", "Java", "PHP"]
-    },
-    {
-      "name": "Programming Languages",
-      "level": "Advanced",
-      "keywords": ["Ruby"]
-    },
-    {
-      "name": "Programming Languages",
-      "level": "Basic",
-      "keywords": ["C/C++", "C#", "Ruby", "Assembly"]
+      "keywords": [
+        "Typescript",
+        "Javascript",
+        "Java",
+        "PHP",
+        "Ruby",
+        "C/C++",
+        "C#",
+        "Assembly"
+      ]
     },
     {
       "name": "Web Development",
@@ -180,13 +134,8 @@
     },
     {
       "name": "Frameworks",
-      "level": "Master",
-      "keywords": ["Spring MVC", "Express.js"]
-    },
-    {
-      "name": "Frameworks",
       "level": "Advanced",
-      "keywords": ["React"]
+      "keywords": ["Spring MVC", "Express.js", "React"]
     },
     {
       "name": "Databases",
@@ -214,5 +163,10 @@
       "fluency": "Fluent"
     }
   ],
-  "interests": []
+  "interests": [
+    {
+      "name": "Games",
+      "keywords": ["PC Games"]
+    }
+  ]
 }
