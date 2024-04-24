@@ -115,42 +115,27 @@
   "skills": [
     {
       "name": "Programming Languages",
-      "level": "Master",
+      "level": "",
       "keywords": [
-        "Typescript",
-        "Javascript",
         "Java",
-        "PHP",
-        "Ruby",
-        "C/C++",
-        "C#",
-        "Assembly"
+        "Typescript",
+        "Javascript"
       ]
     },
     {
-      "name": "Web Development",
-      "level": "Master",
-      "keywords": ["HTML5", "CSS3", "Javascript"]
-    },
-    {
       "name": "Frameworks",
-      "level": "Advanced",
-      "keywords": ["Spring MVC", "Express.js", "React"]
+      "level": "",
+      "keywords": ["Spring", "Vue", "React", "Express.js"]
     },
     {
       "name": "Databases",
-      "level": "Master",
+      "level": "",
       "keywords": ["MySQL", "MongoDB", "PostgreSQL"]
     },
     {
       "name": "Mobile Development",
-      "level": "Advanced",
+      "level": "",
       "keywords": ["Android"]
-    },
-    {
-      "name": "Other",
-      "level": "Advanced",
-      "keywords": ["Docker"]
     }
   ],
   "languages": [

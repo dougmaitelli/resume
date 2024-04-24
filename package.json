@@ -10,14 +10,14 @@
   "author": "Douglas Maitelli",
   "license": "UNLICENSED",
   "scripts": {
-    "build": "mkdir ./out && resume export ./out/index.html --theme elegant --format html",
+    "build": "mkdirp ./out && resumed render resume.json --output ./out/index.html --theme jsonresume-theme-macchiato-plus",
     "deploy": "node ./scripts/deploy.js"
   },
   "type": "module",
   "devDependencies": {
-    "gh-pages": "^4.0.0",
-    "jsonresume-theme-elegant": "^1.16.1",
-    "mkdirp": "^1.0.4",
-    "resume-cli": "^3.0.8"
+    "gh-pages": "^6.1.1",
+    "jsonresume-theme-macchiato-plus": "^1.0.2",
+    "mkdirp": "^3.0.1",
+    "resumed": "^3.0.1"
   }
 }
